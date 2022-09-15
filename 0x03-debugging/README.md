@@ -1,2 +1,2 @@
 #!/bin/bash
-Write a program that prints putchar
+my first debugging task
