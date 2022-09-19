@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * reset_to_98 - Reset the variable sent to the function at 98
+ *  reset_to_98 - Reset the variable sent to the function at 98
  *  @n: Pointer to the integer sent to the function
- * 
- * Return: nothing
+ *
+ *  Return: nothing
  */
 
 void reset_to_98(int *n)
